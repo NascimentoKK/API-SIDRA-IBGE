@@ -1,0 +1,11 @@
+Variacao_Mensal_Ultimo_Mes = 
+CALCULATE(
+    MAXX(
+        FILTER(
+            'IPCA - COMPLETO',
+            'IPCA - COMPLETO'[Data_Mes] = 
+                MAX('IPCA - COMPLETO'[Data_Mes])
+        ),
+        'IPCA - COMPLETO'[Valor]
+    )
+)
