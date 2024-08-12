@@ -1,1 +1,1 @@
-Repositório criado para pessoas que desejam aprender e utilizar a conexão via API do SIDRA, conectada ao Power BI para acompanhamento de indicadores econômicos e outros dados disponibilizados pelo IBGE.
+Repositório criado para pessoas que desejam aprender a utilizar a conexão via API do SIDRA, conectada ao Power BI para acompanhamento de indicadores econômicos e outros dados disponibilizados pelo IBGE.
