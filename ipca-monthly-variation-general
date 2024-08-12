@@ -1,0 +1,1 @@
+= Json.Document(Web.Contents("https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/all/p/last%2013/c315/7169/d/v63%202,v66%204,v69%202,v2265%202"))
